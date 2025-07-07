@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/图灵课堂Java-架构师VIP精品课程（第七期）/五、微服务专题/21-Nacos2.x配置中心源码分析-Fox/nacos配置中心源码/nacos" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/图灵课堂Java-架构师VIP精品课程（第七期）/六、项目实战专题/电商主体项目源码/tlmallV5/tlmallV5" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/图灵课堂Java-架构师VIP精品课程（第七期）/六、项目实战专题/电商主体项目源码/tlmallv5（包含限流和分布式事务）/tlmallv5" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/图灵课堂Java-架构师VIP精品课程（第七期）/四、分布式专题/10、ShardingSphere系列课程-楼兰/ShardingDemo7/ShardingDemo7" vcs="Git" />
