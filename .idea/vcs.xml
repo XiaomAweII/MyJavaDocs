@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/图灵课堂Java-架构师VIP精品课程（第七期）/四、分布式专题/10、ShardingSphere系列课程-楼兰/ShardingDemo7/ShardingDemo7" vcs="Git" />
   </component>
 </project>
